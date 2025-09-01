@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "version": "GLi 2.0 Flex",
+    "year": 2023,
+    "km": 15000,
+    "price": 120000,
+    "color": "Prata",
+    "fuel": "Flex",
+    "transmission": "Automática",
+    "description": "Veículo impecável, único dono, revisões em dia, completo.",
+    "images": [
+      "https://img.freepik.com/fotos-gratis/automovel-branco-no-estudio_144627-32059.jpg?w=800",
+      "https://img.freepik.com/fotos-gratis/foto-de-toyota-corolla_23-2151049170.jpg?w=800"
+    ]
+  },
+  {
+    "id": 2,
+    "brand": "Honda",
+    "model": "Civic",
+    "version": "Touring 1.5 Turbo",
+    "year": 2022,
+    "km": 25000,
+    "price": 95000,
+    "color": "Preto",
+    "fuel": "Gasolina",
+    "transmission": "Automática",
+    "description": "Carro esportivo, baixo consumo, câmbio suave, ótimo custo-benefício.",
+    "images": [
+      "https://img.freepik.com/fotos-gratis/foto-de-um-carro-preto-na-estrada_23-2151049167.jpg?w=800"
+    ]
+  },
+  {
+    "id": 3,
+    "brand": "Jeep",
+    "model": "Renegade",
+    "version": "Longitude 2.0",
+    "year": 2021,
+    "km": 30000,
+    "price": 85000,
+    "color": "Branco",
+    "fuel": "Diesel",
+    "transmission": "Automática",
+    "description": "4x4, ideal para trilhas e cidade, completo, câmbio automático.",
+    "images": [
+      "https://img.freepik.com/fotos-gratis/jeep-renegade-na-estrada-na-cidade_1150-44999.jpg?w=800"
+    ]
+  }
+]
